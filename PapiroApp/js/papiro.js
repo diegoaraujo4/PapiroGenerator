@@ -1,20 +1,20 @@
 validchars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz()_/!$";
 
 	tab0 = new Array(
-			"J· comeÁou ",
-			"8h da manh„ e voces n",
-			"Voces sÛ n",
+			"J√° come√ßou ",
+			"8h da manh√£ e voces n",
+			"Voces s√≥ n",
 			"Impressionante ",
-			"Claro que j· estao n",
-			"Vai a merda, j· ness",
+			"Claro que j√° estao n",
+			"Vai a merda, j√° ness",
 			"Chega dess"
 		);
 
 		tab1 = new Array(
 			"a gorfada ",
-			"a jorraÁ„o ",
+			"a jorra√ß√£o ",
 			"a putaria ",
-			"a palhaÁada ",
+			"a palha√ßada ",
 			"a babaquice "
 		);
 
@@ -22,24 +22,24 @@ validchars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz()_/!$";
 			"e o RL ",
 			"e o Tchola  ",
 			"e o Tiziu ",
-			"e o F·bio ",
+			"e o F√°bio ",
 			"e o Castanhari ",
 			"e o Felipe Neto ",
 			"e o Leo ",
 			"e o Mouse ",
-			"e os mongolÛides ",
+			"e os mongol√¥ides ",
 			"e os retardados ",
 			"e o Gorski ",
 			"e a Marcinha ",
-      ", vou te jogar na caÁamba de lixo, "
+            ", vou te jogar na ca√ßamba de lixo, "
 		);
 		
 		tab3 = new Array(
-			"com fotinho de cafÈ no Instagram.",
+			"com fotinho de caf√© no Instagram.",
 			"em baile funk de filha da puta.",
 			"pagando lanche pra Bia666.",
 			"comprando cyberlocks.",
-			"soltando vÌdeo merda no Youtube.",
+			"soltando v√≠deo merda no Youtube.",
 			"morrendo no PUBG.",
 			"nem pra vir dar uma bala nuns peruanos comigo.",
 			"usando bot em RPG de celular.",
@@ -47,9 +47,9 @@ validchars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz()_/!$";
 			"fazendo piadinha lixo.",
 			"liberando o boga sem freios.",
 			"pegando AIDS.",
-			"dando rÈ no kibe.",
+			"dando r√© no kibe.",
 			"ligando o sininho nas minas.",
-      "se tornou tudo que abominou um dia.Palmas!!!"
+            "se tornou tudo que abominou um dia.Palmas!!!"
 		);
 		
 
